@@ -1,0 +1,14 @@
+====== New Plugins Added ======
+
+//This page can be edited only by the admin (Buzz Lightyear).//
+
+Plugins provide a system of extending a wiki's features. Some plugins listed below are meant only for the administrator's use (labelled in bold italics); ordinary users will not be able to avail their features. \\
+
+**Click on a plugin listed below to find out what feature it provides to the wiki:**
+
+  * [[http://www.dokuwiki.org/plugin:tablewidth|tablewidth plugin]]
+  * **//[[http://www.dokuwiki.org/plugin:loglog|loglog plugin]]//**
+  * [[http://dokuwiki.org/plugin:wrap|wrap plugin]]
+  * [[http://www.dokuwiki.org/plugin:comment|comment plugin]]
+  * **//[[http://www.dokuwiki.org/plugin|discussion plugin]]//**
+  * [[http://www.dokuwiki.org/plugin:avatar|avatar plugin]]

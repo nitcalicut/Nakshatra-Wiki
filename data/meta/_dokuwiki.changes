@@ -1,0 +1,93 @@
+1320649624	117.204.86.213	C	start	root	created	
+1320649822	117.204.86.213	E	start	root		
+1320652444	117.204.86.213	E	start	root		
+1320655227	117.204.86.213	C	datefix	root	created	
+1320655305	117.204.86.213	E	datefix	root		
+1320657770	117.204.86.213	E	datefix	root		
+1320658404	117.204.86.213	E	datefix	root		
+1320658462	117.204.86.213	E	datefix	root		
+1320658569	117.204.86.213	E	start	root		
+1320658830	117.204.86.213	E	start	root		
+1320661497	117.204.86.213	E	start	root		
+1320661522	117.204.86.213	E	start	root		
+1320666654	192.168.174.66	E	start			
+1320667406	192.168.174.66	C	wiki:nak12	root	created	
+1320667435	192.168.174.66	C	wiki:nak12:datefix	root	created	
+1320667470	192.168.174.66	D	wiki:nak12	root	removed	
+1320667485	192.168.174.66	C	wiki:nak12:start	root	created	
+1320667526	192.168.174.66	D	datefix	root	removed	
+1320667534	192.168.174.66	D	start	root	removed	
+1320667575	192.168.174.66	D	wiki:nak12:start	root	removed	
+1320667582	192.168.174.66	C	wiki:nak12:home	root	created	
+1320600672	127.0.0.1	E	wiki:syntax		external edit	
+1320670095	192.168.174.66	D	wiki:syntax	root	removed	
+1320670123	192.168.174.66	C	syntax	root	created	
+1320600672	127.0.0.1	E	wiki:dokuwiki		external edit	
+1320670138	192.168.174.66	D	wiki:dokuwiki	root	removed	
+1320670154	192.168.174.66	C	dokuwiki	root	created	
+1320670716	117.204.87.128	C	wiki:nak12:activitylog	root	created	
+1320671005	192.168.174.66	C	home	root	created	
+1320671312	192.168.174.66	C	wiki:navigation	root	created	
+1320671513	192.168.174.66	E	wiki:navigation	root		
+1320671539	117.204.87.128	E	wiki:nak12:activitylog	root		
+1320671550	192.168.174.66	E	wiki:navigation	root		
+1320671580	117.204.87.128	E	wiki:nak12:activitylog	root		
+1320671618	192.168.174.66	E	wiki:navigation	root		
+1320671687	117.204.87.128	E	wiki:nak12:home	root		
+1320672083	117.204.87.128	E	wiki:nak12:datefix	root		
+1320672316	117.204.87.128	E	wiki:nak12:datefix	root		
+1320672541	117.204.87.128	R	wiki:nak12:home	root	old revision restored	1320667582
+1320672566	117.204.87.128	E	wiki:nak12:home	root		
+1320672854	117.204.87.128	E	wiki:nak12:home	root		
+1320672873	117.204.87.128	E	wiki:nak12:home	root		
+1320674623	192.168.174.66	D	home	root	removed	
+1320674666	192.168.174.66	C	home:home	root	created	
+1320674690	192.168.174.66	D	home:home	root	removed	
+1320674717	192.168.174.66	E	wiki:navigation	root		
+1320674737	192.168.174.66	C	home	root	created	
+1320674754	192.168.174.66	E	wiki:navigation	root		
+1320675638	192.168.174.66	E	wiki:nak12:activitylog	root		
+1320675653	192.168.174.66	E	wiki:nak12:activitylog	root		
+1320675699	192.168.174.66	D	syntax	root	removed	
+1320675764	192.168.174.66	C	wiki:syntax	root	created	
+1320675782	192.168.174.66	D	dokuwiki	root	removed	
+1320675811	192.168.174.66	C	wiki:dokuwiki	root	created	
+1320683494	117.201.243.137	E	wiki:nak12:datefix	root		
+1320684000	117.201.243.137	E	wiki:nak12:datefix	root		
+1320686196	117.201.243.137	E	wiki:nak12:datefix	m100166ca		
+1320686425	117.201.243.137	E	wiki:nak12:datefix	m100166ca		
+1320686501	117.201.243.137	E	wiki:nak12:datefix	m100166ca		
+1320686574	117.201.243.137	E	wiki:nak12:datefix	m100166ca		
+1320686633	117.201.243.137	E	wiki:nak12:datefix	m100166ca		
+1320688455	117.201.243.137	E	wiki:nak12:activitylog	m100166ca		
+1320694673	192.168.174.66	E	wiki:nak12:activitylog	m100068ca		
+1320695425	192.168.174.41	E	wiki:nak12:datefix	m100034ca		
+1320695947	192.168.174.66	E	wiki:nak12:activitylog	root	[Activity Log] 	
+1320695992	192.168.174.41	E	wiki:nak12:datefix	m100034ca		
+1320696005	192.168.174.66	E	wiki:nak12:activitylog	root		
+1320696024	192.168.174.41	E	wiki:nak12:datefix	m100034ca		
+1320696102	192.168.174.41	E	wiki:nak12:datefix	m100034ca		
+1320696142	192.168.174.66	E	wiki:nak12:activitylog	root		
+1320696368	192.168.174.66	E	wiki:nak12:activitylog	root		
+1320697788	192.168.174.66	E	wiki:nak12:activitylog	root		
+1320698007	192.168.174.66	E	home	root		
+1320698035	192.168.174.66	E	home	root		
+1320698683	192.168.174.66	C	wiki:plugins	root	created	
+1320699282	192.168.174.66	E	wiki:plugins	root		
+1320699347	192.168.174.66	E	wiki:navigation	root		
+1320699360	192.168.174.66	E	wiki:navigation	root		
+1320699878	192.168.174.66	E	wiki:plugins	root		
+1320699922	192.168.174.66	E	wiki:plugins	root		
+1320699960	192.168.174.66	E	wiki:plugins	root		
+1320700228	192.168.174.66	E	wiki:plugins	root		
+1320700361	192.168.174.66	E	wiki:plugins	root		
+1320700523	192.168.174.66	E	wiki:plugins	root		
+1320700561	192.168.174.66	E	wiki:plugins	root		
+1320700573	192.168.174.66	E	wiki:plugins	root		
+1320704147	192.168.174.41	E	wiki:nak12:activitylog	m100034ca		
+1320704205	192.168.174.41	E	wiki:nak12:activitylog	m100034ca		
+1320797874	192.168.174.66	E	wiki:nak12:activitylog	m100068ca		
+1320925703	117.204.81.133	E	wiki:nak12:activitylog	root		
+1321034827	192.168.174.66	E	wiki:nak12:home	root		
+1321035690	192.168.174.66	C	talk:home	root	created	
+1321036665	192.168.174.66	E	wiki:plugins	root		

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://124.124.70.85/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://124.124.70.85/wiki/feed.php">
+        <title>Nakshatra</title>
+        <description></description>
+        <link>http://124.124.70.85/wiki/</link>
+        <image rdf:resource="http://124.124.70.85/wiki/lib/tpl/vector/images/favicon.ico" />
+       <dc:date>2011-11-09T11:06:54+05:30</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://124.124.70.85/wiki/doku.php?id=wiki:nak12:activitylog&amp;rev=1320797874&amp;do=diff"/>
+                <rdf:li rdf:resource="http://124.124.70.85/wiki/doku.php?id=wiki:plugins&amp;rev=1320700573&amp;do=diff"/>
+                <rdf:li rdf:resource="http://124.124.70.85/wiki/doku.php?id=wiki:navigation&amp;rev=1320699360&amp;do=diff"/>
+                <rdf:li rdf:resource="http://124.124.70.85/wiki/doku.php?id=home&amp;rev=1320698035&amp;do=diff"/>
+                <rdf:li rdf:resource="http://124.124.70.85/wiki/doku.php?id=wiki:nak12:datefix&amp;rev=1320696102&amp;do=diff"/>
+                <rdf:li rdf:resource="http://124.124.70.85/wiki/doku.php?id=wiki:dokuwiki&amp;rev=1320675811&amp;do=diff"/>
+                <rdf:li rdf:resource="http://124.124.70.85/wiki/doku.php?id=wiki:syntax&amp;rev=1320675764&amp;do=diff"/>
+                <rdf:li rdf:resource="http://124.124.70.85/wiki/doku.php?id=wiki:nak12:home&amp;rev=1320672873&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://124.124.70.85/wiki/lib/tpl/vector/images/favicon.ico">
+        <title>Nakshatra</title>
+        <link>http://124.124.70.85/wiki/</link>
+        <url>http://124.124.70.85/wiki/lib/tpl/vector/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://124.124.70.85/wiki/doku.php?id=wiki:nak12:activitylog&amp;rev=1320797874&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-11-09T05:47:54+05:30</dc:date>
+        <dc:creator>ADDY SINGH </dc:creator>
+        <title>wiki:nak12:activitylog</title>
+        <link>http://124.124.70.85/wiki/doku.php?id=wiki:nak12:activitylog&amp;rev=1320797874&amp;do=diff</link>
+        <description>All Nakshatra'12 activity must be logged here. 
+To add a new table or add a new entry in an existing table, click 'Edit', and simply reuse the syntax of any of the tables below.
+
+
+
+
+
+
+Date: November 7, 2011
+ Team  Member  Activity  Core Team  Addy, Vipin  Configured &amp; secured Nakshatra wiki. Wrote a PHP script to register 125 users into the wiki. Set up permissions and added group “core” to the wiki. Members Addy, Vipin, Avinesh, Ritwik and Jijo were added to the group “core”. Vipin  Made Facebo…</description>
+    </item>
+    <item rdf:about="http://124.124.70.85/wiki/doku.php?id=wiki:plugins&amp;rev=1320700573&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-11-08T02:46:13+05:30</dc:date>
+        <dc:creator>Buzz Lightyear</dc:creator>
+        <title>wiki:plugins</title>
+        <link>http://124.124.70.85/wiki/doku.php?id=wiki:plugins&amp;rev=1320700573&amp;do=diff</link>
+        <description>This page can be edited only by the admin (Buzz Lightyear).
+
+Plugins provide a system of extending a wiki's features. Some plugins listed below are meant only for the administrator's use (labelled in bold italics); ordinary users will not be able to avail their features.</description>
+    </item>
+    <item rdf:about="http://124.124.70.85/wiki/doku.php?id=wiki:navigation&amp;rev=1320699360&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-11-08T02:26:00+05:30</dc:date>
+        <dc:creator>Buzz Lightyear</dc:creator>
+        <title>wiki:navigation</title>
+        <link>http://124.124.70.85/wiki/doku.php?id=wiki:navigation&amp;rev=1320699360&amp;do=diff</link>
+        <description>*  Homepage
+
+	*  Nakshatra'12
+
+	*  New Plugins Added</description>
+    </item>
+    <item rdf:about="http://124.124.70.85/wiki/doku.php?id=home&amp;rev=1320698035&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-11-08T02:03:55+05:30</dc:date>
+        <dc:creator>Buzz Lightyear</dc:creator>
+        <title>home</title>
+        <link>http://124.124.70.85/wiki/doku.php?id=home&amp;rev=1320698035&amp;do=diff</link>
+        <description>This wiki serves as a collaboration tool to aid in the planning and organization of Nakshatra.
+
+
+
+The following are links to the Nakshatra pages for each of the years that Nakshatra has or will be organized in:
+
+	*  Nakshatra 2012</description>
+    </item>
+    <item rdf:about="http://124.124.70.85/wiki/doku.php?id=wiki:nak12:datefix&amp;rev=1320696102&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-11-08T01:31:42+05:30</dc:date>
+        <dc:creator>RITWIK DEY </dc:creator>
+        <title>wiki:nak12:datefix</title>
+        <link>http://124.124.70.85/wiki/doku.php?id=wiki:nak12:datefix&amp;rev=1320696102&amp;do=diff</link>
+        <description>We have fix the exact dates for Nak'12 by 12/11/11. The fest will be conducted in the month of February. We need you to contact any friends, relatives acquaintances pursuing MCA or MSc. in colleges around India and find out which week of February they will be free(*) in and please update this page accordingly. Add comments, if any, to the bottom of the page. If any institute has a very high probablity of attending Nakshatra'12, please mark them in bold.</description>
+    </item>
+    <item rdf:about="http://124.124.70.85/wiki/doku.php?id=wiki:dokuwiki&amp;rev=1320675811&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-11-07T19:53:31+05:30</dc:date>
+        <dc:creator>Buzz Lightyear</dc:creator>
+        <title>wiki:dokuwiki - created</title>
+        <link>http://124.124.70.85/wiki/doku.php?id=wiki:dokuwiki&amp;rev=1320675811&amp;do=diff</link>
+        <description>DokuWiki is a standards compliant, simple to use Wiki, mainly aimed at creating documentation of any kind. It is targeted at developer teams, workgroups and small companies. It has a simple but powerful syntax which makes sure the datafiles remain readable outside the Wiki and eases the creation of structured texts. All data is stored in plain text files -- no database is required.</description>
+    </item>
+    <item rdf:about="http://124.124.70.85/wiki/doku.php?id=wiki:syntax&amp;rev=1320675764&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-11-07T19:52:44+05:30</dc:date>
+        <dc:creator>Buzz Lightyear</dc:creator>
+        <title>wiki:syntax - created</title>
+        <link>http://124.124.70.85/wiki/doku.php?id=wiki:syntax&amp;rev=1320675764&amp;do=diff</link>
+        <description>DokuWiki supports some simple markup language, which tries to make the datafiles to be as readable as possible. This page contains all possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing the Edit this page button at the top or bottom of the page. If you want to try something, just use the playground page. The simpler markup is easily accessible via quickbuttons, too.</description>
+    </item>
+    <item rdf:about="http://124.124.70.85/wiki/doku.php?id=wiki:nak12:home&amp;rev=1320672873&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-11-07T19:04:33+05:30</dc:date>
+        <dc:creator>Buzz Lightyear</dc:creator>
+        <title>wiki:nak12:home</title>
+        <link>http://124.124.70.85/wiki/doku.php?id=wiki:nak12:home&amp;rev=1320672873&amp;do=diff</link>
+        <description>This wiki is setup for documentation, planning and collaboration.
+
+Date Fix Survey
+
+We have to fix the exact dates for Nak'12 by 12/11/2011. The meet will be conducted in the month of February. We need you to contact any friends, relatives acquaintances pursuing MCA or MSc in colleges around India and find out which week of February they will be free in and please update the following page accordingly.
+Nakshatra '12 Date Fix Survey</description>
+    </item>
+</rdf:RDF>

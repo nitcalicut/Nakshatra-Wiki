@@ -1,0 +1,3 @@
+New release candidate available: 2011-11-10 "Angua RC".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [35] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%

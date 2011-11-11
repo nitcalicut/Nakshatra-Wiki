@@ -1,0 +1,7 @@
+====== Welcome to Nakshatra Wiki ======
+
+This wiki serves as a collaboration tool to aid in the planning and organization of Nakshatra.
+\\ \\
+The following are links to the Nakshatra pages for each of the years that Nakshatra has or will be organized in:
+
+  * [[wiki:nak12:home|Nakshatra 2012]]

@@ -1,0 +1,55 @@
+
+====== Activity Log ======
+
+<WRAP round info 600px>**//All Nakshatra'12 activity must be logged here.//** \\ //To add a new table or add a new entry in an existing table, click 'Edit', and simply reuse the syntax of any of the tables below.//</WRAP>
+
+
+/** HEY GUYS, DO NOT EDIT THE CODE WRITTEN ABOVE THIS COMMENT. YOU CAN START EDITING BELOW :) */ 
+
+
+\\
+
+**Date: November 7, 2011**
+|< 90% 10% 15% 60% >|
+^ Team ^ Member ^ Activity ^
+| Core Team | Addy, Vipin | Configured & secured Nakshatra wiki. Wrote a PHP script to register 125 users into the wiki. Set up permissions and added group "core" to the wiki. Members Addy, Vipin, Avinesh, Ritwik and Jijo were added to the group "core".|
+| ::: | Vipin | Made [[http://facebook.com/nakshatra2012|Facebook fan page]] for Nakshatra'12. It'll be handed over to Media Team once its formed. Asked Prannoy Pal to make a logo for 'NITC MCA'. Created user logins for all 3 batches in the wiki.   |
+
+\\
+
+**Date: November 6, 2011**
+|< 90% 10% 15% 60%  >|
+^ Team ^ Member ^ Activity ^
+| Core Team | Avinesh, Ritwik | Forwarded S5 MCA the link to the GoogleDoc //Date Fix Survey//. Informed them about the progress made. Gave them an introduction to the teams and the team-structure via e-mail. Requested individual members of S5 MCA to choose an appropriate team that they would like to work with and also to arrive at a decision regarding the Convener. |
+| ::: | Ritwik | Informed members of the alumni about the progress made, via e-mail.  |
+| Core Team | Vipin | Installed Dokuwiki on the server. Moved the DateFixSurvey document to wiki From Google Docs. |
+
+\\
+
+
+**Date: November 5, 2011**
+|< 90% 10% 15% 60%  >|
+^ Team ^ Member ^ Activity ^
+| Core Team | Addy, Vipin | Got a system from NSL admins. Installed Debian Squeeze on the server and activated public IP 124.124.70.85 |
+
+\\
+
+**Date: November 3, 2011**
+|< 90% 10% 15% 60%  >|
+^ Team ^ Member ^ Activity ^
+|Core Team| Addy, Vipin | Printed the documents and got the server permission from Mr Jayaraj PB. |
+| ::: | Addy, Avinesh, Ritwik, Vipin | A meeting with first years was scheduled in NSL to get their opinion on Nakshatra. Those who were interested were asked to sign the letter of support. Second year students also signed the document. It will be presented to third year students soon. The document will be uploaded soon. |
+
+\\
+
+**Date: November 2, 2011**
+|< 90% 10% 15% 60%  >|
+^ Team ^ Member ^ Activity ^
+| Core Team | Addy, Vipin | Prepared letter of support, Team preference Form and a permission letter Addressed to NSL Incharge, Mr Jayaraj PB for a public server for hosting a wiki and Nakshatra Website. |
+
+\\ 
+
+**Date: October 31, 2011**
+|< 90% 10% 75% >|
+^ Member ^ Activity ^
+| 2nd Year MCA | A meeting was held amongst the 2nd years regarding Nakshatra where students were asked to volunteer for teams. All volunteers in a team were required to elect one coordinator for their team. A few 3rd years were nominated for 'Nakshatra Convener', and these names were relayed to the 3rd years for them to ultimately elect one. Avinesh Saini & Ritwik Dey took initiative for the meeting.|

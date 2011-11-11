@@ -1,0 +1,39 @@
+====== Nakshatra '12 Date Fix Survey ======
+
+We have fix the exact dates for Nak'12 by 12/11/11. The fest will be conducted in the month of February. We need you to contact any friends, relatives acquaintances pursuing MCA or MSc. in colleges around India and find out which week of February they will be free(*) in and please update this page accordingly. Add comments, if any, to the bottom of the page. If any institute has a very high probablity of attending Nakshatra'12, please mark them in **bold**.
+
+
+=== Kerala ===
+|< 800px 100px 50px  10px 1px 1px 1px 1px 50px   >|
+^ Institute       ^ Location        ^      Week    ^^^^ Your Name ^
+^                                  ^^    1^2^3^4      ^           ^ 
+| MES, Kuttippuram  | Kuttippuram   |    | |*|*      |Addy|
+| Amrita Vishwa Vidyapeetham |Amrithapuri|*|*|*|*|Rahul|
+
+=== Tamil Nadu ===
+|< 800px 100px 50px  10px 1px 1px 1px 1px 50px  >|
+^ Institute       ^ Location        ^      Week    ^^^^ Your Name ^
+^                                  ^^    1^2^3^4      ^           ^
+|PSGTech|Coimbatore|*|*|*|*|Addy|
+
+=== Karnataka ===
+|< 800px 100px 50px  10px 1px 1px 1px 1px 50px   >|
+^ Institute       ^ Location        ^      Week    ^^^^ Your Name ^
+^                                  ^^    1^2^3^4      ^           ^
+|**Christ University**|Bangalore|*|*|*|*|Vipin|
+|**NITK** |Surathkal|*|*|*|*|Vipin|
+
+=== Andhra Pradesh ===
+|< 800px 100px 50px  10px 1px 1px 1px 1px 50px   >|
+^ Institute       ^ Location        ^      Week    ^^^^ Your Name ^
+^                                  ^^    1^2^3^4      ^           ^
+|Andhra University|Vizag|*|*|*|*|Devadas|
+|JNTU|Kakkinada| | |*|*|Devadas|
+
+=== Other States ===
+|< 800px 100px 50px  10px 1px 1px 1px 1px 50px -  >|
+^ Institute       ^ Location(Including State)        ^      Week    ^^^^ Your Name ^ 
+^                                  ^^    1^2^3^4      ^                            ^
+|Jadavpur University|Kolkata, WB| |*|*|*|Ritwik|
+|**MANIT**|Bhopal, MP|*|*|*| |Sanchari|
+|**Amity University** |Jaipur, RJ |*|*|*| |Sanchari|
