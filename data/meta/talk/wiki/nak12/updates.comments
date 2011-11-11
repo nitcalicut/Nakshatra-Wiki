@@ -1,4 +1,4 @@
-a:5:{s:5:"title";s:29:"Discussion page for 'updates'";s:6:"status";i:1;s:8:"comments";a:2:{s:32:"4c53ad891ff3fcd1aaafa9fdfaba00ff";a:8:{s:4:"user";a:5:{s:2:"id";s:4:"root";s:4:"name";s:14:"Buzz Lightyear";s:4:"mail";s:16:"swvist@gmail.com";s:7:"address";s:0:"";s:3:"url";s:0:"";}s:4:"date";a:2:{s:7:"created";i:1321049999;s:8:"modified";i:1321050670;}s:4:"show";b:1;s:3:"raw";s:605:"**Welcome to the discussion page for the page 'updates'!**\\
+a:5:{s:5:"title";s:29:"Discussion page for 'updates'";s:6:"status";i:1;s:8:"comments";a:3:{s:32:"4c53ad891ff3fcd1aaafa9fdfaba00ff";a:8:{s:4:"user";a:5:{s:2:"id";s:4:"root";s:4:"name";s:14:"Buzz Lightyear";s:4:"mail";s:16:"swvist@gmail.com";s:7:"address";s:0:"";s:3:"url";s:0:"";}s:4:"date";a:2:{s:7:"created";i:1321049999;s:8:"modified";i:1321050670;}s:4:"show";b:1;s:3:"raw";s:605:"**Welcome to the discussion page for the page 'updates'!**\\
 //Leave your suggestions/comments/questions regarding the content on the page// [[wiki:nak12:updates]].\\ \\
 //If you're interested in having **your photo** appear next to your comments just like mine, then sign up here// [[http://en.gravatar.com/site/signup/]] //and upload your photo. Its extremely simple! Then, come back to the wiki, click on the **Update Profile** link at the top right corner of the page, fill in the email address that you used to sign up for Gravatar, click Save, and voila! Your Photo will be integrated instantly!!// ";s:5:"xhtml";s:900:"
 <p>
@@ -13,4 +13,8 @@ a:5:{s:5:"title";s:29:"Discussion page for 'updates'";s:6:"status";i:1;s:8:"comm
 <p>
 <strong>Thanks! I did exactly what you said!</strong>
 </p>
-";s:6:"parent";s:32:"4c53ad891ff3fcd1aaafa9fdfaba00ff";s:7:"replies";a:0:{}s:3:"cid";s:32:"38d704bb4394250bdb4d756417cc666b";}}s:6:"number";i:2;s:11:"subscribers";N;}
+";s:6:"parent";s:32:"4c53ad891ff3fcd1aaafa9fdfaba00ff";s:7:"replies";a:0:{}s:3:"cid";s:32:"38d704bb4394250bdb4d756417cc666b";}s:32:"8862e0a8eb18a8a8f03a6bb21fd74839";a:8:{s:4:"user";a:5:{s:2:"id";s:9:"m100034ca";s:4:"name";s:6:"RITWIK";s:4:"mail";s:13:"test@test.com";s:7:"address";s:0:"";s:3:"url";s:0:"";}s:4:"date";a:1:{s:7:"created";i:1321052816;}s:4:"show";b:1;s:3:"raw";s:102:"**great going.. now that we have the theme in hand, we can make some progress in the design front...**";s:5:"xhtml";s:126:"
+<p>
+<strong>great going.. now that we have the theme in hand, we can make some progress in the design front…</strong>
+</p>
+";s:6:"parent";N;s:7:"replies";a:0:{}s:3:"cid";s:32:"8862e0a8eb18a8a8f03a6bb21fd74839";}}s:6:"number";i:3;s:11:"subscribers";N;}

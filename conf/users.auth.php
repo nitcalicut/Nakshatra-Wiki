@@ -132,5 +132,5 @@ m100065ca:4c043c635a92f639790e373169a374f2:JIJO VARGHESE :test@test.com:core,use
 m100068ca:2b77d6ece6aa6b0dd01ba0e2d52c4056:ADDY SINGH :addy689@gmail.com:core,user
 m090330ca:fec8e0647c4853d2e614618fffdf8849:PROBAL MUKHERJEE:test@test.com:user
 m100088ca:2a476f9513d59ad23b8aa1021aa5fae4:AVIDI SIVA SAI KIRAN:test@test.com:user
-m100034ca:6627a3cf90dc4cdd1c057b4c0b5d4dca:RITWIK:test@test.com:core,user
 m100166ca:ade7a911d6faea17d42e42f8af784b70:Vipin Nair:swvist@gmail.com:core,user
+m100034ca:6627a3cf90dc4cdd1c057b4c0b5d4dca:RITWIK:ritwik_mail_in@yahoo.co.in:core,user

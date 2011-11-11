@@ -10,9 +10,9 @@
 *	@user	2
 *	@core	8
 home	@user	1
+talk:*	@user	1
+talk:*	@core	2
 wiki:dokuwiki	@user	1
 wiki:nak12:home	@user	1
-wiki:navigation	@ALL	1
-wiki:plugins	@ALL	1
 wiki:syntax	@user	1
-talk:*	@user	1
+wiki:nak12:updates	@user	1

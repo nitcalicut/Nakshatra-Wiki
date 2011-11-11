@@ -9,6 +9,14 @@
 
 \\
 
+**Date: November 12, 2011**
+|< 90% 10% 15% 60% >|
+^ Team ^ Member ^ Activity ^
+| Core Team | Addy | Added a **Discussion** page for each page in Nakshatra Wiki. Also added a **Latest Updates** page to the wiki.Uploaded Nakshatra Wiki to [[https://github.com/addy689/Nakshatra-Wiki]] for version control management. //(If you're curious about what version control management is, contact Addy, Vipin, Rahul, Saurabh or Indranil)//. |
+| ::: | Addy, Vipin | Discussed and decided on the theme for Nak'12 as **scripting** in the Main Canteen after horrible lunch (Gobi Manchurian is absolutely revolting!). The official title for Nakshatra '12 was tentatively decided as **'ManUScript'**. |
+
+\\
+
 **Date: November 7, 2011**
 |< 90% 10% 15% 60% >|
 ^ Team ^ Member ^ Activity ^
@@ -22,7 +30,7 @@
 ^ Team ^ Member ^ Activity ^
 | Core Team | Avinesh, Ritwik | Forwarded S5 MCA the link to the GoogleDoc //Date Fix Survey//. Informed them about the progress made. Gave them an introduction to the teams and the team-structure via e-mail. Requested individual members of S5 MCA to choose an appropriate team that they would like to work with and also to arrive at a decision regarding the Convener. |
 | ::: | Ritwik | Informed members of the alumni about the progress made, via e-mail.  |
-| Core Team | Vipin | Installed Dokuwiki on the server. Moved the DateFixSurvey document to wiki From Google Docs. |
+| ::: | Vipin | Installed Dokuwiki on the server. Moved the DateFixSurvey document to wiki From Google Docs. |
 
 \\
 
