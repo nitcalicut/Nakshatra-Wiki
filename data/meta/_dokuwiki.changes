@@ -91,3 +91,15 @@
 1321034827	192.168.174.66	E	wiki:nak12:home	root		
 1321035690	192.168.174.66	C	talk:home	root	created	
 1321036665	192.168.174.66	E	wiki:plugins	root		
+1321047396	192.168.174.66	E	talk:home	root		
+1321047422	192.168.174.66	E	talk:home	root		
+1321047693	192.168.174.66	C	talk:wiki:nak12:home	root	created	
+1321047874	192.168.174.66	C	talk:wiki:nak12:datefix	root	created	
+1321048036	192.168.174.66	C	talk:wiki:nak12:activitylog	root	created	
+1321048171	192.168.174.66	C	talk:wiki:plugins	root	created	
+1321048262	192.168.174.66	C	talk:wiki:navigation	root	created	
+1321048444	192.168.174.66	E	wiki:navigation	root		
+1321048460	192.168.174.66	E	wiki:navigation	root		
+1321049802	192.168.174.66	C	wiki:nak12:updates	root	created	
+1321049865	192.168.174.66	E	wiki:navigation	root		
+1321049962	192.168.174.66	C	talk:wiki:nak12:updates	root	created	

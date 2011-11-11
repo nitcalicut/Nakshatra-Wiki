@@ -1,4 +1,6 @@
 
+  * [[wiki:nak12:updates|Latest Updates*]]
+
   * [[home:|Homepage]]
 
   * [[wiki:nak12:home|Nakshatra'12]]
